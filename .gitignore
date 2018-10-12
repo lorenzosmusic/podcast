@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Wav files
+Season 01/01 Lum/Raw Interview File/lum-music-app-raw-interview-normalized.wav
