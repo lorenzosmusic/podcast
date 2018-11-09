@@ -3,9 +3,16 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# Wav files
+# Large Audio files
 Season 01/01 Lum/Raw Interview File/lum-music-app-raw-interview-normalized.wav
 Season 01/02 FMA - Cheyanne (Music Site)/Raw Interview File/180817_0087.wav
 Season 01/02 FMA - Cheyanne (Music Site)/Raw Interview File/180817_cheyanne-fma-normalized.wav
 Season 01/03 Rock the Jake (YouTube Creator)/Raw Interview Files/180907_0098.wav
 Season 01/03 Rock the Jake (YouTube Creator)/Raw Interview Files/rock-the-jake-raw-interview.wav
+Season 01/02 FMA - Cheyanne (Music Site)/FMA interview/export/FMA interview_lorenzos-music-podcast-mixdown.wav
+Season 01/teaser/raw-audio/teaser-promo.wav
+Season 01/teaser/lorenzos-music-podcast-teaser/export/lorenzos-music-podcast-teaser.wav
+Season 01/02 FMA - Cheyanne (Music Site)/FMA interview/narration/cicada.wav
+Season 01/02 FMA - Cheyanne (Music Site)/FMA interview/narration/fma-intro-take2.wav
+Season 01/02 FMA - Cheyanne (Music Site)/FMA interview/narration/narration.wav
+Season 01/teaser/lorenzos-music-podcast-teaser.mp3

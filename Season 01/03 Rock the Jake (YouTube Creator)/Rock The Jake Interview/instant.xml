@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
+  <LastUsedSnapshot name="Rock The Jake Interview"/>
   <Main x="0" y="25" w="1920" h="1031" current-tab="editor"/>
-  <Editor id="12" edit-horizontal-pane-pos="0.88397789001464844" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="106879" snap-to="SnapToBeatDiv4" snap-mode="SnapOff" internal-snap-to="SnapToBeatDiv4" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv4" pre-internal-snap-mode="SnapOff" edit-point="EditAtMouse" visible-track-count="-1" playhead="10890706" left-frame="0" y-origin="0" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="1" show-marker-lines="0" nudge-clock-value="220500">
+  <Editor id="12" edit-horizontal-pane-pos="0.88397789001464844" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="79848" snap-to="SnapToBeatDiv4" snap-mode="SnapOff" internal-snap-to="SnapToBeatDiv4" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv4" pre-internal-snap-mode="SnapOff" edit-point="EditAtMouse" visible-track-count="-1" playhead="16145360" left-frame="0" y-origin="0" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="1" show-marker-lines="0" nudge-clock-value="220500">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
@@ -9,8 +10,41 @@
     </Buttons>
     <Selection>
       <Regions>
-        <Region id="4066"/>
+        <Region id="41127"/>
+        <Region id="41118"/>
+        <Region id="40823"/>
+        <Region id="40530"/>
+        <Region id="39975"/>
+        <Region id="39686"/>
+        <Region id="39399"/>
+        <Region id="39114"/>
+        <Region id="38831"/>
+        <Region id="38550"/>
+        <Region id="38007"/>
+        <Region id="37724"/>
+        <Region id="37443"/>
+        <Region id="36684"/>
+        <Region id="36413"/>
+        <Region id="35194"/>
+        <Region id="34921"/>
+        <Region id="34418"/>
+        <Region id="34149"/>
+        <Region id="33888"/>
+        <Region id="33629"/>
+        <Region id="33372"/>
+        <Region id="31995"/>
+        <Region id="28534"/>
+        <Region id="26411"/>
+        <Region id="26162"/>
+        <Region id="25915"/>
+        <Region id="25670"/>
+        <Region id="25427"/>
+        <Region id="24972"/>
+        <Region id="24733"/>
+        <Region id="24280"/>
+        <Region id="23837"/>
       </Regions>
+      <Marker id="254" start="0"/>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="1" show-all="0" show-automatic-regions="1"/>
     <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</ActionScript>
